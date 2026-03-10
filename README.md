@@ -12,7 +12,7 @@ seo:
 
 Welcome to the course website for the Spring 2026 reading group on the economics of AI. This bi-weekly course explores how autonomous agents and foundation models are reshaping firms, pricing, and market structures.
 
---
+---
 
 ## Course Overview
 
