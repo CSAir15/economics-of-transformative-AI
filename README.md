@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Economics of Transformative AI, Spring 2026
 nav_exclude: true
 permalink: /:path/
 seo:
