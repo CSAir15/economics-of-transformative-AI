@@ -2,7 +2,7 @@
 name: Costas Courcoubetis
 role: Instructor
 email: costas@cuhk.edu.cn
-photo: costas.jpg
+photo: costas.png
 meta:
   Office Hours: By appointment
 ---
